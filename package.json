@@ -1,0 +1,22 @@
+{
+  "name": "ciutat_oberta",
+  "version": "1.0.0",
+  "description": "Slides for the talk at Ciutat Oberta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coopdevs/ciutat_oberta.git"
+  },
+  "author": "Coopdevs",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/coopdevs/ciutat_oberta/issues"
+  },
+  "homepage": "https://github.com/coopdevs/ciutat_oberta#readme",
+  "dependencies": {
+    "backslide": "^2.3.2"
+  }
+}
