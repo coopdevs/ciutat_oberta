@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/coopdevs/ciutat_oberta#readme",
   "dependencies": {
-    "backslide": "^2.3.2"
+    "backslide": "^2.3.2",
+    "slides_template": "^1.0.0"
   }
 }
