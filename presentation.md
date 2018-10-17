@@ -34,7 +34,7 @@ In the intersection of Platform Coop, FLOSS and SSE
 
 ---
 
-## What do we do
+### What we do
 
 Tech Strategy
 
