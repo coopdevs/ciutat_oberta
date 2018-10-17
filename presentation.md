@@ -42,7 +42,9 @@ Software development
 
 ---
 
-class: impact
+class: impact, katuma
+
+background-image: radial-gradient(rgba(67, 51, 72, 1),rgba(67, 51, 72, 1))
 
 ## Katuma
 

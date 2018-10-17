@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans:100,100i,700,700i,800,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:700');
 
 // Theme
 // ---------------------------------------------------------------------------
@@ -189,6 +190,11 @@ blockquote {
 .dark-bg { background-color: $dark; }
 .alt-bg { background-color: $secondary; };
 .light { color: rgba(255, 255, 255, 0.3); }
+
+.katuma h2 {
+  font-family: 'Roboto Slab';
+  text-transform: uppercase;
+}
 
 // Simple 12-columns grid system
 .row {
