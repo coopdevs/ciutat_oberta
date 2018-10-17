@@ -24,13 +24,11 @@ We envision ourselves in the intersection of Platform Coop, FLOSS and SSE
 
 ---
 
-## Platform Coop
+## What do we do
 
-TimeOverflow
+Tech Strategy
 
-ERP for coops
-
-Katuma/Open Food Network
+Software development
 
 ---
 
