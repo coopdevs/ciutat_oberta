@@ -151,6 +151,10 @@ Lowers barrier cost for new instances
 
 We bring in grants, crowdfunding, etc. from the local projects
 
+We prioritize together
+
+**Multiplier** effect
+
 ---
 
 ### Diverse local business models
