@@ -9,9 +9,24 @@ class: impact
 
 ---
 
+class: impact
+
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/coopdevs.jpg)
+
 ## Coopdevs
 
-Tech for Social and Solidarity Economy
+@prez_pau
+
+github.com/coopdevs<br>
+community.coopdevs.org
+
+---
+
+background-image: url(images/coopdevs_logo.jpg)
+
+---
+
+## Coopdevs
 
 We bet on the platform coop model
 
