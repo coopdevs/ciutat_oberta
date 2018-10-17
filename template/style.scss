@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,400,700,900');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:100,100i,700,700i,800,900,900i');
 
 // Theme
 // ---------------------------------------------------------------------------
@@ -12,16 +12,16 @@ $text-dark        : #212121;
 $text-light       : $white;
 $code-background  : #F8F8F8;
 $overlay          : transparentize(#000, .5);
-$font-size        : 28px;
+$font-size        : 42px;
 $font-size-impact : 128px;
 $font             : 'Fira Sans', sans-serif;
 $font-title       : $font;
 $font-fixed       : 'Lucida Console', Monaco, monospace;
-$margin           : 20px;
+$margin           : 25px;
 $iframe-scale     : 1.5;
 
-$font-light       : 300;
-$font-bold        : 700;
+$font-light       : 100;
+$font-bold        : 800;
 $font-heavy       : 900;
 
 
@@ -32,15 +32,14 @@ $font-heavy       : 900;
 body {
   font-family: $font;
   font-weight: $font-light;
+  letter-spacing: 0.1%;
 }
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 $margin 0;
   font-family: $font-title;
   font-weight: $font-bold;
+  color: $white;
 }
-h1 { color: $white; }
-h2 { color: $white; }
-h3 { color: $white; }
 li { margin-bottom: .25em; };
 pre, code {
   text-align: left;
@@ -74,9 +73,26 @@ blockquote {
   color: $text-light;
   background-size: cover;
   background-color: $primary;
+  letter-spacing: 0.01em;
 
   img {
      max-width: 100%;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    padding-bottom: 1em;
+  }
+
+  h2 {
+    font-size: 55px;
+  }
+
+  h3 {
+    font-size: 45px; 
+  }
+  
+  p {
+    margin: 0.5em 0;
   }
 }
 
