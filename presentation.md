@@ -1,11 +1,6 @@
 title: Viability and Open Source
 layout: true
 
-<!-- This slide will serve as the base layout for all your slides -->
-.bottom-bar[
-  {{title}}
-]
-
 ---
 
 class: impact
