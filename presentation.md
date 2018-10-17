@@ -131,17 +131,19 @@ two-level governance: local and global
 
 ### Software as a common
 
+It is an infrastructure and not a tool
+
+Developed globally, offered locally
+
 ---
 
 ### Single core team
 
 Devs/PO/QA from all local projects
 
-Reduce operational costs to minimum
+Reduces operational costs
 
-Low barrier cost for new instances
-
-Developed globally, offered locally
+Lowers barrier cost for new instances
 
 ---
 
