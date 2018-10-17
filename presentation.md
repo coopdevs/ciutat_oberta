@@ -32,6 +32,8 @@ Software development
 
 ---
 
+class: impact
+
 ## Katuma
 
 ---
@@ -86,7 +88,11 @@ International cooperation
 
 ---
 
+class: impact
+
 ## Open Food Network
+
+---
 
 Collaborative network of local projects
 
