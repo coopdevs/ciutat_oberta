@@ -162,3 +162,9 @@ We prioritize together
 Instances explore possibilities in parallel
 
 Will there be a *one size fits all*?
+
+---
+
+class: impact
+
+## Q&A
