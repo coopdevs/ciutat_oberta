@@ -159,6 +159,6 @@ We prioritize together
 
 ### Diverse local business models
 
-Explore possibilities in parallel
+Instances explore possibilities in parallel
 
-There won't be a "one size fits all"
+Will there be a *one size fits all*?
