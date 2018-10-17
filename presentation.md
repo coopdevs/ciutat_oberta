@@ -64,7 +64,7 @@ We open not only source code
 
 ---
 
-#### Where we are
+#### Where we are at
 
 Not-for-profit
 
@@ -84,7 +84,7 @@ International cooperation
 
 + monthly membership fee
 
-+ alternative income sources: Banca Etica, member funds, debt-crowdfunding
++ alternative financing: Banca Etica, member funds, debt-crowdfunding
 
 ---
 
