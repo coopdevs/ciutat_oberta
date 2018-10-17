@@ -165,6 +165,10 @@ Will there be a *one size fits all*?
 
 ---
 
+background-image: url(images/ofn_team.jpg)
+
+---
+
 class: impact
 
 ## Q&A
