@@ -6,10 +6,10 @@
 $primary          : #3A407A;
 $secondary        : #009688;
 $tertiary         : #757575;
-$light            : #FFF;
+$white            : #FFF;
 $dark             : #333;
 $text-dark        : #212121; 
-$text-light       : $light;
+$text-light       : $white;
 $code-background  : #F8F8F8;
 $overlay          : transparentize(#000, .5);
 $font-size        : 28px;
@@ -38,9 +38,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $font-title;
   font-weight: $font-bold;
 }
-h1 { color: $light; }
-h2 { color: $light; }
-h3 { color: $light; }
+h1 { color: $white; }
+h2 { color: $white; }
+h3 { color: $white; }
 li { margin-bottom: .25em; };
 pre, code {
   text-align: left;
@@ -172,6 +172,7 @@ blockquote {
 .small { font-size: .8em; }
 .dark-bg { background-color: $dark; }
 .alt-bg { background-color: $secondary; };
+.light { color: rgba(255, 255, 255, 0.3); }
 
 // Simple 12-columns grid system
 .row {

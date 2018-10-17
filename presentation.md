@@ -70,21 +70,23 @@ Not-for-profit
 
 International cooperation
 
-- Crowdfunding
+Reward-based crowdfunding
 
-- Public grants
+Public grants
 
 ---
 
 #### What we aim for
 
-Not-for-profit
+.light[Not-for-profit]
 
-International cooperation
+.light[International cooperation]
 
-+ monthly membership fee
+~~Reward-based crowdfunding~~<br>
+alternative financing: Banca Etica, member funds, debt-crowdfunding
 
-+ alternative financing: Banca Etica, member funds, debt-crowdfunding
+~~Public grants~~<br>
+monthly membership fee
 
 ---
 
