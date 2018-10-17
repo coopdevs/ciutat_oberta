@@ -56,7 +56,7 @@ Horizontal & Democratic
 
 ### Transparency
 
-We open not only source code
+We not only open code but also data, participation and processes
 
 ---
 
