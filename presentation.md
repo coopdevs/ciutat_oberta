@@ -30,7 +30,7 @@ background-image: url(images/coopdevs_logo.jpg)
 
 We bet on the platform coop model
 
-We envision ourselves in the intersection of Platform Coop, FLOSS and SSE
+In the intersection of Platform Coop, FLOSS and SSE
 
 ---
 
