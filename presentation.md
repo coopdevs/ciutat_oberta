@@ -110,13 +110,20 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 ---
 
+### What is it?
+
 Collaborative network of local projects
 
-Australia, UK, France, Canada, Katuma
+<br>
+*Australia, UK, France, Skandinavia, Canada, Katuma*
 
-Coming: US, Belgium, Germany
+Coming: *US, Belgium, Germany*
 
-Shared vision: support the development of short/local food systems
+---
+
+### Shared vision
+
+*Support the development of short/local food systems*
 
 two-level governance: local and global
 
