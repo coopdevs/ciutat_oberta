@@ -115,9 +115,9 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 Collaborative network of local projects
 
 <br>
-*Australia, UK, France, Skandinavia, Canada, Katuma*
+*Australia, UK, France, Skandinavia, Canada, Katuma, USA*
 
-Coming: *US, Belgium, Germany*
+Coming: *Belgium, Germany*
 
 ---
 
@@ -129,7 +129,7 @@ two-level governance: local and global
 
 ---
 
-### Software as a common
+### Software as a common resource
 
 It is an infrastructure and not a tool
 
